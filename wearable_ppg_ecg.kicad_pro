@@ -1,0 +1,25 @@
+{
+  "board": {
+    "design_settings": {},
+    "stackup": {}
+  },
+  "meta": {
+    "filename": "wearable_ppg_ecg.kicad_pro",
+    "version": 1
+  },
+  "schematic": {
+    "annotate": {},
+    "erc": {},
+    "libraries": {
+      "pinned_footprint_libs": [],
+      "pinned_symbol_libs": [
+        {
+          "type": "KiCad",
+          "uri": "${KIPRJMOD}/lib/superid_wearable.kicad_sym"
+        }
+      ]
+    },
+    "page_settings": {}
+  },
+  "sym_lib_table": null
+}

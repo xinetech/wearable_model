@@ -1,0 +1,11 @@
+(kicad_sch (version 20211014) (generator "ChatGPT")
+  (paper "A4")
+  (title_block
+    (title "Top-Level")
+    (date "2025-10-14")
+    (company "Xine Technology Solutions - SuperID / IdMedico")
+    (comment 1 "Prototype wearable: PPG+ECG+BLE")
+  )
+
+  (text (at 10 180 0) (effects (font (size 1.5 1.5)))) "Top-level: connects global nets. Detailed wiring per sheet."
+)
