@@ -1,0 +1,18 @@
+(kicad_sch (version 20211014) (generator "ChatGPT")
+  (paper "A4")
+  (title_block
+    (title "ECG (AD8232)")
+    (date "2025-10-14")
+    (company "Xine Technology Solutions - SuperID / IdMedico")
+    (comment 1 "Prototype wearable: PPG+ECG+BLE")
+  )
+
+(symbol (lib_id "AD8232_ECG")
+  (at 100 100 0)
+  (unit 1)
+  (in_bom yes) (on_board yes)
+  (property "Reference" "U30" (id 0) (at 100 107.62 0) (effects (font (size 1 1))))
+  (property "Value" "AD8232_ECG" (id 1) (at 100 92.38 0) (effects (font (size 1 1))))
+)
+  (text (at 10 180 0) (effects (font (size 1.5 1.5)))) "ECG_OUT → MCU ADC; RA/LA electrodes; RL optional"
+)
